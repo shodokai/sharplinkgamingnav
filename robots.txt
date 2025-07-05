@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.sbetnav.com/sitemap.xml
